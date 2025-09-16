@@ -1,6 +1,4 @@
-# README.md
-
-### Pranav's GitHub Profile
+# Pranav's GitHub Profile
 
 Welcome to my GitHub profile landing page! Here you can find some of my basic stats and a summary of my skills in the Machine Learning and Deep Learning domains.
 
