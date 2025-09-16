@@ -12,6 +12,9 @@ Here are my live, dynamically updated stats, thanks to the **GitHub Readme Stats
 
 <br>
 <center>
+ <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=pranavs1205" alt="pranavs1205" />
+</a>
   <a href="https://github.com/pranavs1205">
     <img src="https://github-readme-stats.vercel.app/api?username=pranavs1205&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="Your GitHub Stats" />
   </a>
@@ -22,13 +25,17 @@ Here are my live, dynamically updated stats, thanks to the **GitHub Readme Stats
 
 ### 📊 My Live Visitor Count
 
-This counter shows how many people have viewed this page. It's powered by the **Visitor Badge** service.
+
 
 <br>
 <center>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=pranavs1205" alt="Visitors Count" />
+ 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=pranavs1205&label=Profile%20views&color=0e75b6&style=flat" alt="pranavs1205" />
+</p>
 </center>
 <br>
+
 
 ---
 
